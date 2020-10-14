@@ -1,0 +1,10 @@
+2020-10-13 10:42:48.367 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication on LAPTOP-2KMKDUOP with PID 61256 (D:\JavaCode\JavaEEPlatform-master\JavaEEPlatform-master\2. SpringMvc\RestFulDemo\target\classes started by 菜心呀！ in D:\JavaCode\JavaEEPlatform-master\JavaEEPlatform-master\2. SpringMvc\RestFulDemo)
+2020-10-13 10:42:48.378 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-10-13 10:42:59.295 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 12.301 seconds (JVM running for 14.645)
+2020-10-13 10:48:13.995 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication on LAPTOP-2KMKDUOP with PID 49084 (D:\JavaCode\JavaEEPlatform-master\JavaEEPlatform-master\2. SpringMvc\RestFulDemo\target\classes started by 菜心呀！ in D:\JavaCode\JavaEEPlatform-master\JavaEEPlatform-master\2. SpringMvc\RestFulDemo)
+2020-10-13 10:48:14.015 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-10-13 10:48:24.424 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 11.689 seconds (JVM running for 13.942)
+2020-10-13 10:48:34.060 [http-nio-8080-exec-2] INFO  c.e.x.r.controller.ControllerExceptionHandler - methodArgumentNotValid: msg = 商品名称不能为空;
+2020-10-13 10:50:22.451 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Starting DemoApplication on LAPTOP-2KMKDUOP with PID 24888 (D:\JavaCode\JavaEEPlatform-master\JavaEEPlatform-master\2. SpringMvc\RestFulDemo\target\classes started by 菜心呀！ in D:\JavaCode\JavaEEPlatform-master\JavaEEPlatform-master\2. SpringMvc\RestFulDemo)
+2020-10-13 10:50:22.466 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-10-13 10:50:33.599 [main] INFO  cn.edu.xmu.restfuldemo.DemoApplication - Started DemoApplication in 12.778 seconds (JVM running for 15.328)
